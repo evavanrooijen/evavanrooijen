@@ -2,9 +2,9 @@
 
 Welcome to my GitHub page! 
 
-- 🔭 I’m currently working on Representation Learning Research and learning WebDev (JS atm)
+- 🔭 I’m currently working on Representation Learning
 - 🌱 I’m currently learning how to ride a motorcycle!
-- 👯 I’m looking to collaborate on Data Journalism and... a mealprepper :)
+- 👯 I’m looking to collaborate on Data Visualisation 
 - 💬 Ask me about Python/Machine Learning :)
 - 📫 How to reach me: https://www.linkedin.com/in/eva-van-rooijen/
 - ⚡ Fun fact: I (dead)lifted 100 kg for the first time recently!
